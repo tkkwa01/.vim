@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/Users/aoi/pj/go/KobaCareer_API/controller'
+let g:netrw_dirhist_5='/Users/aoi/pj/go/KobaCareer_API'
+let g:netrw_dirhist_4='/Users/aoi/pj/go/KobaCareer_API/usecase'
+let g:netrw_dirhist_3='/Users/aoi/pj/go/KobaCareer_API/controller'
+let g:netrw_dirhist_2='/Users/aoi/pj/go/KobaCareer_API'
+let g:netrw_dirhist_1='/Users/aoi/pj/go/KobaCareer_API/controller'
+let g:netrw_dirhist_0='/Users/aoi/pj/go/KobaCareer_API'
+let g:netrw_dirhist_9='/Users/aoi/pj/go/KobaCareer_API/controller'
+let g:netrw_dirhist_8='/Users/aoi/go/src/github.com/tkkwa01/fabric-samples/asset-transfer-basic/chaincode-go'
+let g:netrw_dirhist_7='/Users/aoi/.vim'
